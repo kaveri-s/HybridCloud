@@ -1,0 +1,7 @@
+deep-learning-ami-name: ami-00000000000000000
+region: us-east-1
+s3-buckets-file-name: s3_buckets.json
+s3-buckets-file-path: /
+local: True
+images-path: imagenet-100/
+url: ""
